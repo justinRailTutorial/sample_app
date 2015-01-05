@@ -12,5 +12,6 @@
 //
 //= require bootstrap
 //= require jquery
-//= require jquery_ujs 
+//= require jquery_ujs
+console.log("hello lol fuck");
 //= require_tree .
